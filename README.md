@@ -48,9 +48,9 @@ public long[] optimalArray(int n,int a[])
         
         
     }
-,,,,,,
 
-`````
+
+``````
 
 Time Complexity: 0(n)
 Space Complecity: 0(n)
